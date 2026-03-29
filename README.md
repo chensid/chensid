@@ -5,4 +5,4 @@
 
 ### ⚒️ Languages and Tools
 
-[![My Languages](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,nextjs,angular,tailwind,nodejs,electron,pnpm,webpack,vite,git,docker,nest,prisma,bun,vscode&perline=10)](https://github.com/chensid)
+[![Languages and Tools](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,nextjs,angular,tailwind,nodejs,electron,pnpm,webpack,vite,git,docker,nest,prisma,bun,vscode&perline=10)](https://github.com/chensid)
